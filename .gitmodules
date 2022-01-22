@@ -1,0 +1,3 @@
+[submodule "MediaCreationTool.bat"]
+	path = MediaCreationTool.bat
+	url = https://github.com/AveYo/MediaCreationTool.bat.git
