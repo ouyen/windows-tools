@@ -1,3 +1,6 @@
 [submodule "MediaCreationTool.bat"]
 	path = MediaCreationTool.bat
 	url = https://github.com/AveYo/MediaCreationTool.bat.git
+[submodule "Wu10Man"]
+	path = Wu10Man
+	url = https://github.com/WereDev/Wu10Man.git
